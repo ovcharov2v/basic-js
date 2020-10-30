@@ -20,7 +20,6 @@ const chainMaker = {
       this.chain = []
       throw new Error()
     }
-
   },
 
   reverseChain() {
